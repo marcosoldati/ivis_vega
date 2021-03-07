@@ -2,3 +2,5 @@ vega
 altair 
 vega_datasets
 pandas
+matplotlib
+seaborn
