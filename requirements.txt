@@ -1,2 +1,4 @@
+vega
 altair 
 vega_datasets
+pandas
