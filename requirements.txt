@@ -1,6 +1,5 @@
-vega
-altair 
-vega_datasets
 pandas
+vega_datasets
+altair 
 matplotlib
 seaborn
