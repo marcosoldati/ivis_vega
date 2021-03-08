@@ -2,6 +2,6 @@
 
 IVIS Vega-Lite sample project to be executed in mybinder.org
 
-Call the following link to launch the project.
+Click the following button to launch the project in JupyterLab.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcosoldati/ivis_vega/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcosoldati/ivis_vega/HEAD?urlpath=lab)
