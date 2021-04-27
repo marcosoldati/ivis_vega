@@ -12,9 +12,9 @@ Click the following button to launch the project in JupyterLab.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcosoldati/ivis_vega/HEAD?urlpath=lab)
 
 
-## DeepNpte.com
+## DeepNote.com
 
-This git repo can be added as provier to DeepNote.
+This git repo can be added as provider to DeepNote.
 Make sure to link the requirements.txt at root level
 
 1. Open DeepNote terminal
