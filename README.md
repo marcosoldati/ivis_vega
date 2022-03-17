@@ -21,3 +21,13 @@ Make sure to link the requirements.txt at root level
 2. `ln -s ivis_vega/requirements.txt requirements.txt`
 3. Restart machine in DeepNote.
 
+## Anaconda JupyterLab / JupyterNotebook
+
+1a. Use the green "code" button above to download this repositoriy as a zip-file 
+
+OR
+
+1b. Use git to clone this repository
+
+2. Launch JupyterLab (preferred) or JupyterNotebook from `Anaconda Navigator`
+3. Open 0_smoketest.ipynb and follow directions in there.
