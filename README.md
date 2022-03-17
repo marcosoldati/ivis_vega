@@ -23,7 +23,8 @@ Make sure to link the requirements.txt at root level
 
 ## Anaconda JupyterLab / JupyterNotebook
 
-1a. Use the green "code" button above to download this repositoriy as a zip-file 
+1a. Use the green "code" button above to download this repositoriy as a zip-file <img width="87" alt="image" src="https://user-images.githubusercontent.com/9032737/158816862-c53c9c2f-ccc2-41c6-a8f0-dc6f1ac58c3f.png">
+
 
 OR
 
